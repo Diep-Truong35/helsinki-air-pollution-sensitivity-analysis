@@ -6,6 +6,15 @@ A Python-based analysis of how weather and traffic relate to air pollution in He
 
 This repository documents the coursework project *Impact of Weather and Traffic on Air Pollution: An Uncertainty and Sensitivity Analysis* (System Dynamics with Applications, February 2026).
 
+
+## Explore My Work
+
+- 🐍 [Python Sensitivity and Uncertainty Analysis](notebooks/System_dynamics.ipynb)
+- 🧹 [Data Preparation Notebook](notebooks/final-dataset.ipynb)
+- 📁 [Raw Datasets](data/raw/)
+- 📊 [Cleaned Dataset](data/processed/clean_dataset.csv)
+- 📄 [Final Project Report](reports/)
+
 ## Project objective
 
 - Combine traffic, weather and air-pollution measurements into a common hourly dataset.
